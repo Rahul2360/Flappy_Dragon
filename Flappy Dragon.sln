@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{AEB30F79-6927-8865-FEC9-BC23C95E1DBF}") = "Flappy Dragon", "Assembly-CSharp.csproj", "{4D41FB2F-675F-FBEB-8AD2-D3839A679B3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D41FB2F-675F-FBEB-8AD2-D3839A679B3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D41FB2F-675F-FBEB-8AD2-D3839A679B3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D41FB2F-675F-FBEB-8AD2-D3839A679B3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D41FB2F-675F-FBEB-8AD2-D3839A679B3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
